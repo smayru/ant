@@ -1,2 +1,2 @@
-# these codes are corresponding プログラミングコンテストチャレンジブック [第2版]
+# these codes are corresponding to プログラミングコンテストチャレンジブック [第2版]
 
